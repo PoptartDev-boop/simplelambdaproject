@@ -26,3 +26,6 @@ namespace simplelambdaproject
         }
     }
 }
+
+
+//thank you for downloading this project :)
